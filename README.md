@@ -23,6 +23,8 @@ A demo React dashboard for tracking stocks, indices, F&O, mutual funds, and more
 - React Router DOM
 
 ---
+## watch Demo [Here](https://pkstockdashboard.netlify.app/)
+---
 
 ## Installation
 
